@@ -1,0 +1,23 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.elementor-post__read-more {
+  background-color: #1d2b5c; !important
+  border: none;
+  padding: 10px 15px 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font color: white; !important
+  font-family: "mont", Sans-serif}
+
+.elementor-post__read-more {
+  transition-duration: 0.2s;}
+
+.elementor-post__read-more:hover {
+    background-color: #EB386B;
+  color: white;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
